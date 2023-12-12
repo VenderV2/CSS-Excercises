@@ -5,7 +5,7 @@
     font-family: verdana, "DejaVu Sans", sans-serif;
 }
 
-.pink.large {
+.pink.large, #num4 {
     font-size: 24px;
 }
 
@@ -18,7 +18,6 @@
 #num4 {
     color: black;
     background-color: green;
-    font-size: 24px;
     font-weight: bold;
     font-family: verdana, "DejaVu Sans", sans-serif;
 }
