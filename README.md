@@ -1,1 +1,1 @@
-# CSS-Excercises
+Odin project css excercises using internal, external and inline css methods# CSS-Excercises
