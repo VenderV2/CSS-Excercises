@@ -57,6 +57,10 @@ ul {
     margin-right: 10px;
 }
 
+.footer {
+  background-color: rgb(231, 231, 231);
+}
+
 .content {
     display: flex;
     flex-direction: column;
@@ -67,4 +71,9 @@ ul {
 
 li {
     margin: 5px;
+}
+
+a {
+  color: grey;
+  text-decoration: none;
 }
